@@ -1,0 +1,20 @@
+{
+  "pdf_glob": "/home/user/rr-garden/Rr Garden Hisaab-pages-*.pdf",
+  "pdf_sort_regex": "-(\\d+)\\.pdf$",
+  "group_size": 2,
+  "first_record_page_already_done": 1,
+  "records_per_page": 12,
+  "tracker_xlsx": "/home/user/rr-garden/RR_Garden_Tracker.xlsx",
+  "output_xlsx": "/home/user/rr-garden/RR_Garden_Digitization/outputs/RR_Garden_Tracker_Completed.xlsx",
+  "sheet": "Guest Register",
+  "template_row": 5,
+  "append_after_row": 16,
+  "data_dir": "/home/user/rr-garden/RR_Garden_Digitization/data",
+  "render_dir": "/home/user/rr-garden/RR_Garden_Digitization/render",
+  "zoom_full": 3.0,
+  "zoom_crop": 4.0,
+  "zoom_strip": 6.5,
+  "right_page_crop_x1": 0.82,
+  "phone_strip_x1": 0.17,
+  "commission_per_booking_rs": 50
+}
